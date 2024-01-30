@@ -1,0 +1,3 @@
+pandas
+numpy 
+#-e . ## we have to use this in the last when we create the entire app with EDA and model and hyperparameter tuning.
